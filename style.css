@@ -254,3 +254,14 @@ main {
     transform: scale(1);
   }
 }
+
+/* Products Page */
+
+.products-heading {
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  padding: 4px 0 0 0;
+  font-weight: 600;
+  text-transform: uppercase;
+}
