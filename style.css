@@ -53,7 +53,7 @@ nav ul li a:before {
   bottom: -6px;
   transition: width 0.6s;
 }
-/*hero section*/
+/*hero section */
 main {
   display: flex;
   gap: 8em;
